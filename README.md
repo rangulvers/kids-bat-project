@@ -5,14 +5,9 @@ This project simulates a bat's echolocation ability using an ultrasonic sensor, 
 
 The project is divided into three stages to facilitate step-by-step learning:
 
-Stage 1: Ultrasonic Sensor Only
-Stage 2: Add Active Buzzer for Sound
-Stage 3: Add MAX7219 Matrix Display
-Table of Contents
-Components Required
-Stage 1: Ultrasonic Sensor Only
-Stage 2: Add Active Buzzer for Sound
-Stage 3: Add MAX7219 Matrix Display
+1. Stage 1: Ultrasonic Sensor Only
+2. Stage 2: Add Active Buzzer for Sound
+3. Stage 3: Add MAX7219 Matrix Display
 
 ## Components Required
 * Arduino Uno
