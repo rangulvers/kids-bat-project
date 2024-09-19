@@ -15,9 +15,8 @@ To get started with these projects, simply clone this repository to your local m
 
 ## Projects
 
-Here are some of the exciting projects included in this collection:
 
-1. [Bats](./Arduino/Bats/): Description of project 1.
+1. [Bats](./Arduino/Bats/): Our very first project. My kids wanted to know how bats can see. So we built our own bat 🦇
 
 
 Feel free to explore each project and customize them according to your child's preferences. Don't forget to encourage creativity and problem-solving skills along the way!
