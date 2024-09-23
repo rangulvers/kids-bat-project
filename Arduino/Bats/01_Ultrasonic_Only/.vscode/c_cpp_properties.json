@@ -8,8 +8,8 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "/Users/I511999/Documents/PlatformIO/Projects/Mailin_Bat/include",
-                "/Users/I511999/Documents/PlatformIO/Projects/Mailin_Bat/src",
+                "/Users/I511999/Documents/Coding/Privat/projects_for_kids/Arduino/Bats/01_Ultrasonic_Only/include",
+                "/Users/I511999/Documents/Coding/Privat/projects_for_kids/Arduino/Bats/01_Ultrasonic_Only/src",
                 "/Users/I511999/.platformio/packages/framework-arduino-avr/cores/arduino",
                 "/Users/I511999/.platformio/packages/framework-arduino-avr/variants/standard",
                 "/Users/I511999/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
@@ -22,8 +22,8 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "/Users/I511999/Documents/PlatformIO/Projects/Mailin_Bat/include",
-                    "/Users/I511999/Documents/PlatformIO/Projects/Mailin_Bat/src",
+                    "/Users/I511999/Documents/Coding/Privat/projects_for_kids/Arduino/Bats/01_Ultrasonic_Only/include",
+                    "/Users/I511999/Documents/Coding/Privat/projects_for_kids/Arduino/Bats/01_Ultrasonic_Only/src",
                     "/Users/I511999/.platformio/packages/framework-arduino-avr/cores/arduino",
                     "/Users/I511999/.platformio/packages/framework-arduino-avr/variants/standard",
                     "/Users/I511999/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
