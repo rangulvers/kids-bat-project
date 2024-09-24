@@ -5,7 +5,7 @@ This repository is a collection of projects that I have built with my kids. It s
 ## Table of Contents
 
 - [Getting Started](#getting-started)
-- [Projects](#projects)
+- [Projects](./Arduino/)
 - [Contributing](#contributing)
 
 
@@ -17,6 +17,8 @@ To get started with these projects, simply clone this repository to your local m
 
 
 1. [Bats](./Arduino/Bats/): Our very first project. My kids wanted to know how bats can see. So we built our own bat 🦇
+2. [Scream-O-Mat](./Arduino/BigSound/Scream-O-Mat/): Ever wonder how loud your kids can be? Lets show them 📢
+
 
 
 Feel free to explore each project and customize them according to your child's preferences. Don't forget to encourage creativity and problem-solving skills along the way!
